@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp Utility Tool",
+  "description": "Send a message to any number with an existing whatsapp account!",
+  "version": "1.0",
+  "action": {
+    "default_title": "WhatsApp Utility Tool V1",
+    "default_popup": "src/view/index.html"
+  }
+}
